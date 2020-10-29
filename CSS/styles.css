@@ -1,0 +1,40 @@
+body {background-color:#ffc93c;}
+hr {
+  border-style: dotted;
+  border-top-style: dashed;
+  border-color: black;
+  border-width: 3px;
+  width: 3%
+}
+
+img:hover {
+  background-color: white;
+}
+
+h1 {
+  color:#0f4c75
+}
+
+h2 {
+  color:#0f4c75
+}
+
+.redh2 {
+  color:red;
+}
+
+.greenh2 {
+  color:green;
+}
+
+#dotted {
+  border-top-style: dotted;
+}
+
+.georgia {
+  font-family: Georgia, serif;
+}
+
+#mainheading {
+  color:white;
+}
